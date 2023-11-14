@@ -31,7 +31,6 @@ instance/
 .webassets-cache
 
 # Vue.js specific
-/public/
 
 # Environment variables
 .env
